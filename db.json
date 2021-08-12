@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": "099d8792-23ac-4847-a7a8-97266ec5d4ee",
+      "text": "完成redux連結資料",
+      "complete": false
+    },
+    {
+      "id": "495e3658-2f72-458d-ad92-6de50ef7ea73",
+      "text": "完成編輯功能",
+      "complete": false
+    },
+    {
+      "id": "8a9fb1f8-9567-454f-9d83-f8ecfb34745c",
+      "text": "完成刪除功能",
+      "complete": false
+    },
+    {
+      "id": "2544835a-e7a0-482f-b5a0-6117edb3f9cc",
+      "text": "完成API串接",
+      "complete": false
+    },
+    {
+      "id": "5b101950-9b3f-4496-af59-46fa3d1a044b",
+      "text": "完成已完成功能",
+      "complete": false
+    },
+    {
+      "id": "9a3cd0b6-6467-4400-bc22-e49f74979048",
+      "text": "完成顯示功能",
+      "complete": false
+    },
+    {
+      "id": "2c0af5cb-8507-4d94-a67e-2b788084951f",
+      "text": "完成黑暗模式",
+      "complete": false
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
